@@ -1,0 +1,4 @@
+worker-id: 0c299333-30a8-4c04-84e0-16cfabeeef1d
+logs.users: []
+logs.groups: []
+topology.submitter.user: zune
